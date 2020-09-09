@@ -1,1 +1,1 @@
-# android_device_redmi9a
+# device_xiaomi_dandelion
